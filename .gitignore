@@ -1,5 +1,10 @@
 
 /jb-code-sharing/jb-code-sharing.iml
 
-/.idea/
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
 /.git/
+out
